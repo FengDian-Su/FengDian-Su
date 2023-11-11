@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, this is NJ 👋
+# Hi there, this is NJ 👋
 
 ### About me
 
