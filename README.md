@@ -6,6 +6,8 @@
 
 🗺️ 2022-2023 GDSC core team member
 
+Student Association of CSE Department member
+
 ### Github Usage
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=FengDian-Su&theme=nord_bright)
