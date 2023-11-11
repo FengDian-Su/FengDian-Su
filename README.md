@@ -2,6 +2,7 @@
 
 ### About me
 🎓 NCHU, Computer Science and Engineering
+
 🗺️ 2022-2023 GDSC core team member
 
 ### Github Usage
