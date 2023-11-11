@@ -1,4 +1,4 @@
-### Hi there, this is NJ 👋
+<h1 align="center">Hi there, this is NJ 👋
 
 ### About me
 🏫 Computer Science and Engineering from NCHU.
