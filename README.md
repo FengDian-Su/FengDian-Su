@@ -1,7 +1,8 @@
 <h1 align="center">Hi there, this is NJ 👋
 
 ### About me
-🏫 Computer Science and Engineering from NCHU.
+🎓 NCHU, Computer Science and Engineering
+🗺️ 2022-2023 GDSC core team member
 
 ### Github Usage
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=FengDian-Su&theme=nord_bright)
