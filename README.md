@@ -1,8 +1,7 @@
 <h1 align="center">Hi there, this is NJ 👋
 
 ### About me
-🎓 NCHU, Computer Science and Engineering
-
+🎓 NCHU, Computer Science and Engineering\
 🗺️ 2022-2023 GDSC core team member
 
 ### Github Usage
