@@ -1,8 +1,8 @@
 ### Hi there, this is NJ 👋
 
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=FengDian-Su&theme=react)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=FengDian-Su&theme=react)![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=FengDian-Su&theme=react)
+### Github Usage
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=FengDian-Su&theme=nord_bright)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=FengDian-Su&theme=nord_bright)![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=FengDian-Su&theme=nord_bright)
 <!--
 **FengDian-Su/FengDian-Su** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
