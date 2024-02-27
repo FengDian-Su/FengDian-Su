@@ -6,7 +6,7 @@
 
 🗺️ 2022-2023 GDSC core team member
 
-🏫 Student Association of CSE Department member
+👯 Student Association of CSE Department member
 
 ### Github Usage
 
@@ -19,12 +19,8 @@
 
 ### Project
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
+- Light Novel Database Management System
+- Cross Language Information Retrieval System (Undone...)
+- Iot Project (Undone...)
+- Logic Circuit Simulator (Undone...)
+- 
