@@ -6,7 +6,7 @@
 
 🗺️ 2022-2023 GDSC core team member
 
-Student Association of CSE Department member
+🏫 Student Association of CSE Department member
 
 ### Github Usage
 
