@@ -21,6 +21,6 @@
 
 - Light Novel Database Management System
 - Cross Language Information Retrieval System (Undone...)
-- Iot Project (Undone...)
+- Smart Menter
 - Logic Circuit Simulator (Undone...)
 - 
