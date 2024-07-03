@@ -15,12 +15,15 @@
 
 ### Language & Skills
 
-[![My Skills](https://skillicons.dev/icons?i=c,java,js,html,css,dart,fastapi,mysql,py)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,java,js,html,css,dart,fastapi,mysql,py,flask,arduino,git)](https://skillicons.dev)
 
 ### Project
 
+- Cross Language LegalQA-tw
 - Light Novel Database Management System
-- Cross Language Information Retrieval System (Undone...)
 - Smart Menter
+- QR-code Secret Sharing
+- NJ Website
+- Slime and Ghost
 - Logic Circuit Simulator (Undone...)
 - 
