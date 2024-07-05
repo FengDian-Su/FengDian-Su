@@ -20,10 +20,10 @@
 ### Project
 
 - Cross Language LegalQA-tw
-- Light Novel Database Management System
-- Smart Menter
-- QR-code Secret Sharing
-- NJ Website
-- Slime and Ghost
+- [Light Novel Database Management System](https://github.com/FengDian-Su/Light-Novel-DBMS)
+- [Smart Menter For Household Appliances](https://github.com/FengDian-Su/Smart-Menter)
+- [QR-code Secret Sharing](https://github.com/Edmond-Yang/Cryptology_QR-code)
+- [Personal Website](https://github.com/FengDian-Su/NJ)
+- [Slime and Ghost](https://github.com/FengDian-Su/Slime-and-Ghost)
 - Logic Circuit Simulator (Undone...)
 - 
