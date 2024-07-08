@@ -23,6 +23,7 @@
 - [Light Novel Database Management System](https://github.com/FengDian-Su/Light-Novel-DBMS)
 - [Smart Menter For Household Appliances](https://github.com/FengDian-Su/Smart-Menter)
 - [QR-code Secret Sharing](https://github.com/Edmond-Yang/Cryptology_QR-code)
+- [Tweet Sentiment Classification](https://github.com/FengDian-Su/Tweet-Sentiment-Classification)
 - [Personal Website](https://github.com/FengDian-Su/NJ)
 - [Slime and Ghost](https://github.com/FengDian-Su/Slime-and-Ghost)
 - Logic Circuit Simulator (Undone...)
