@@ -2,11 +2,11 @@
 
 ### About me
 
-🎓 NCHU, Computer Science and Engineering
+🎓 NCHU, Computer Engineering
 
 🗺️ 2022-2023 GDSC core team member
 
-👯 Student Association of CSE Department member
+👯 Student Association of CE Department member
 
 ### Github Usage
 
