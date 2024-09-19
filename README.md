@@ -19,7 +19,7 @@
 
 ### Project
 
-- Cross Language LegalQA-tw
+- [Cross Language LegalQA-tw](https://github.com/FengDian-Su/Cross-Lingual-LegalQA-tw)
 - [Light Novel Database Management System](https://github.com/FengDian-Su/Light-Novel-DBMS)
 - [Smart Menter For Household Appliances](https://github.com/FengDian-Su/Smart-Menter)
 - [QR-code Secret Sharing](https://github.com/Edmond-Yang/Cryptology_QR-code)
