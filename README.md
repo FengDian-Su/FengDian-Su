@@ -2,11 +2,11 @@
 
 ### About me
 
-🎓 NCHU, Computer Engineering
+🎓 NYCU, Computer Science and Engineering
 
-🗺️ 2022-2023 GDSC core team member
+🗺️ 2022-2023 GDSC core team member (NCHU)
 
-👯 Student Association of CE Department member
+👯 2022-2023 Student Association of CSE Department member (NCHU)
 
 ### Github Usage
 
